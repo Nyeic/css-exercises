@@ -1,0 +1,25 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+div {
+    background-color: #FF0000;
+    color: #ffff;
+    padding-left: 0.8em;
+    padding-right: 0.8em;
+    font-weight: 700;
+    font-size: 2em;
+}
+
+p {
+    color: #ffff;
+    background-color: green;
+    font-size: 1.2em;
+    font-weight: 400;
+}
+
+button {
+    background-color: rgb(255, 153, 0);
+    font-size: 1em;
+    font-weight: 500;
+}
